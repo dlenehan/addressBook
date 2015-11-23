@@ -119,7 +119,6 @@ public class AddressBook {
 					addressBook.get(key).getAddress_line_2() + "," +
 					addressBook.get(key).getAddress_line_3() + "," +
 					addressBook.get(key).getMobile() + ".";
-			System.out.println("***   Address List   ***");
 			System.out.println(address);
 
 		}
